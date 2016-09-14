@@ -19,3 +19,7 @@ As we have done with all our developed produtcs, the BCN3D Moveo files will be a
 Unlike the other BCN3D products, the Moveo won’t be commercialized. The project has been born and developed in order to make a move for the community progress starting from the Departament d’Ensenyament idea.
 Nevertheless, BCN3D will fee all the Moveo know how on our Github account, as we have been doing with all the BCN3D Technologies products. Thus, the users will be able to find the bill of material (BOM), where all the needed components for the assembling of the arm come detailed, as the CAD designs, so anyone will be able to modify the BCN3D Moveo design as they wish.
 Furthermore, the Github users will find the STL files for the structure printing and the assembling, fine tuning and firmware upload manuals, which will be available both in English and Spanish.
+
+## Acknowledgements
+
+This project is based on a project by [Andreas Hölldorfer](http://chaozlabs.blogspot.de/). You can see his original project on [Hackaday.io](https://hackaday.io/project/3800-3d-printable-robot-arm), [Github](https://github.com/4ndreas/BetaBots-Robot-Arm-Project/tree/master), [Youtube](https://www.youtube.com/channel/UCeFKz1UJUd5YuxS1ZikqYwA).
