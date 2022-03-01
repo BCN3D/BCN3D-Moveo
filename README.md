@@ -1,10 +1,10 @@
-#BCN3D MOVEO
+# BCN3D MOVEO
 
 This is the repository that contains the CAD files, the STL files, the user manual (with the assembly manual), the firmware, and the Bill of Materials of the BCN3D Moveo.
 BCN3D Technologies keeps taking important steps in order to achieve his goal of bringing the digital manufacturing technology to everyone. In this occasion we are presenting the BCN3D Moveo, a robotic arm design from scratch and developed by our engineers in collaboration with the Departament d’Ensenyament from the Generalitat de Catalunya. Its structure is fully printed using additive manufacturing technologies and its electronics are controlled by the software Arduino.
 Moveo, fully functional nowadays, has been born, as all the BCN3D Technologies products, with an open and educational wish.
 
-##Why BCN3D Moveo
+## Why BCN3D Moveo
 
 One of the Departament d’Ensenyament worries is the high price of the materials the grade students must use on their internships. Holding that in mind, an Open Source robotic arm, adaptable by the students and low cost reproducible could take several educational itineraries: mechanical design, automatism, industrial programing, etc.
 Thus, the BCN3D Moveo should allow the educational centers to enjoy a modifiable and easily accessible for the students, at a price far lower than the usual industrial equipment they used to have to acquire, with enough output for training purposes.
@@ -12,7 +12,7 @@ As a Fundació CIM area, BCN3D Technologies shares its educational vocation. Tha
 Once we had the robotic arm designed and manufactured we started the last phase of the project, which consisted on an assembling and fine tuning workshop for 15 institutes around Catalonia, which took place in the BCN3D Technologies.
 These institutes already have the BCN3D Moveo in their classrooms and workshops, and will have to present an internship program that proves their knowledge about the arm during September.
 
-##Open Source Technology: Github
+## Open Source Technology: Github
 
 As we have done with all our developed produtcs, the BCN3D Moveo files will be available for everyone. Thanks to the platform Github, a website where users around the world share their designs, anyone will be able to obtain all the necessary information in order to assemble his own BCN3D Moveo at home.
 
